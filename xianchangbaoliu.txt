@@ -1,0 +1,1 @@
+In this situation, you can either catch up the resource from the stream, release your version of the resource to the stream, or merge your work and the stream resource.
